@@ -1,0 +1,31 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/developer_plates/miku.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u24b6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/developer_plates/aquamarine.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u24b7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/developer_plates/yellow_light.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u24b8"
+			]
+		}
+	]
+}

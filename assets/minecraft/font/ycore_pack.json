@@ -1,0 +1,58 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/admin_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\ud83d\udd25"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/afk_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u23ef"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/twitch_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u26cf"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/youtube_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u23f5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/media_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u23f8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:characters/creator_plate.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"\u270e"
+			]
+		}
+	]
+}
